@@ -5,8 +5,11 @@ Android Architecture Study
 
 ## Member
 - 정재윤 [JeongJae-yun](https://github.com/JeongJae-yun)
+
 - 오해성 [Haeseong5](https://github.com/Haeseong5)
+
 - 김슬기 [4z7l](https://github.com/4z7l)
+
 - 강현성 [DevHyeonseong](https://github.com/DevHyeonseong)
 
 ### 스터디
