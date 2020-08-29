@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Architecture_Study</string>
+    <string name="kakao_native_app_key">8d8b20c5968b07538e9bfe8078724a85</string>
 </resources>
