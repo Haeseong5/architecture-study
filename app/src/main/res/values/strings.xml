@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Architecture_Study</string>
     <string name="kakao_native_app_key">8d8b20c5968b07538e9bfe8078724a85</string>
+    <string name="GITHUB_CLIENT_SECRET">cc9feff5eafe751fb0bb54be6f2e0218b4f2f267</string>
+    <string name="GITHUB_CLIENT_ID">c1cab47a56263d82f150</string>
 </resources>
